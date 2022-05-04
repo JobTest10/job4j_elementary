@@ -23,8 +23,8 @@ public class MathCalculator {
     }
 
     public static void main(String[] args) {
-        System.out.println("Rezultat rascheta raven: " + sumAndMul(10, 20));
-        System.out.println("Rezultat rascheta raven: " + divAndDif(10, 20));
-        System.out.println("Rezultat rascheta raven: " + all(10, 20));
+        System.out.println("Результат расчета равен: " + sumAndMul(10, 20));
+        System.out.println("Результат расчета равен: " + divAndDif(10, 20));
+        System.out.println("Результат расчета равен: " + all(10, 20));
     }
 }
